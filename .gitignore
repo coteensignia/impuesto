@@ -1,0 +1,14 @@
+# node_modules
+node_modules/
+
+# Dist
+dist/
+
+# Babel
+.babelrc
+
+# Mac
+.DS_Store
+
+# Ignorar la carpeta de configuración de VS Code
+.vscode/
